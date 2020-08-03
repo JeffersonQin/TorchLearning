@@ -1,2 +1,4 @@
 # TorchLearning
-Some Jupyter Notebooks of learning PyTorch.
+
+学习`PyTorch`过程当中的学习笔记，使用的材料是[Deep-Learning-with-PyTorch-Chinese](https://github.com/ShusenTang/Deep-Learning-with-PyTorch-Chinese)
+
